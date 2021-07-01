@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-%20My%20Website-000)](hellrungj.github.io/)
+[![](https://img.shields.io/badge/-%20My%20Website-000)](https://hellrungj.github.io/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
