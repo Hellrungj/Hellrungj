@@ -1,9 +1,22 @@
-# Hi there, I am John. Welcome to my profile! 👋 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Hellrungj">
+    <img src="https://user-images.githubusercontent.com/8736564/134118128-06c9d693-80df-4237-ab34-928ae30aada4.png" alt="Hellrung logo" width="500" height="200">
+    <h1 align="center">
+      Hi there, I am John. Welcome to my profile! 👋 
+    </h1>
+  </a>
+</p>
+
+
+
+
+<p align="center">
+**Fullstack Developer** | **Python** | **.NET** | **JavaScript**
+</p>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
-
-**Fullstack Developer** | **Python** | **.NET** | **JavaScript**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnjameshellrung/)](https://www.linkedin.com/in/johnjameshellrung/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Hellrungj)](https://github.com/Hellrungj) 
@@ -65,8 +78,5 @@ Thanks for reading my profile. ❤️
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hellrungj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <a>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green"/>
-  </a>
-  <a href="https://github.com/Hellrungj/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellrungj&theme=blue-green"/>
   </a>
 </p>
