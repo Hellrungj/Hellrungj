@@ -69,6 +69,7 @@ Thanks for reading my profile. ❤️
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-white?style=flat&logo=tailwind-css)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)&nbsp;
 
 
 ## ⚙️ &nbsp;GitHub Analytics
