@@ -9,9 +9,6 @@
   </a>
 </p>
 
-
-
-
 <p align="center">
 **Fullstack Developer** | **Python** | **.NET** | **JavaScript**
 </p>
@@ -23,12 +20,13 @@
 [![GitHub.io](https://img.shields.io/badge/-GitHub.io-black?style=flat-square&logo=google-chrome&link=https://hellrungj.github.io)](https://hellrungj.github.io/) 
 
 - 🔭 I’m currently working as **Application Engineer & Developer**
-- 🌱 I’m currently learning `Google Cloud Platform`
+- 🌱 I’m currently learning `Google Cloud Platform` & `Kubernetes`
 - 👯 I’m open for collaboration on any Open Source project 
 - 💬 Ask me about anything, I'm happy to help ✌️
 - 📫 How to contact me: Use the badges above and IM me
 - 😄 Pronouns: he/him/his is fine
 - ⚡ Fun fact: Equal is Not Always Equal in alot of computer languages not just Javascript 
+- :exclamation: Excited for [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)!
 
 Below are my current skills and projects:
 
