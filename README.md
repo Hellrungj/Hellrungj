@@ -26,7 +26,7 @@
 - 📫 How to contact me: Use the badges above and IM me
 - 😄 Pronouns: he/him/his is fine
 - ⚡ Fun fact: Equal is Not Always Equal in alot of computer languages not just Javascript 
--  ❗ Excited for [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)!
+- ❗❗ Excited for [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)!
 
 Below are my current skills and projects:
 
